@@ -1,0 +1,129 @@
+﻿  lapi.c
+  lauxlib.c
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lauxlib.c(480): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: 'strerror' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lauxlib.c(497): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lauxlib.c(503): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  lbaselib.c
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lbaselib.c(343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lbaselib.c(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lbaselib.c(350): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lbaselib.c(353): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lbaselib.c(422): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 'getenv' 선언을 참조하십시오.
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  liolib.c
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(80): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: 'strerror' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(82): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: 'strerror' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(183): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(193): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(214): warning C4996: 'tmpfile': This function or variable may be unsafe. Consider using tmpfile_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(431): note: 'tmpfile' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(232): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(234): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: 'strerror' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(289): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(290): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(178): note: 'strerror' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(306): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(564): warning C4996: 'tmpnam': This function or variable may be unsafe. Consider using tmpnam_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(442): note: 'tmpnam' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(573): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 'getenv' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(637): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(495): note: 'gmtime' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(641): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(669): warning C4244: '함수': 'time_t'에서 'lua_Number'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\liolib.c(686): warning C4244: '함수': 'time_t'에서 'lua_Number'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(165): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(177): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(179): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(185): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(187): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(255): note: 'strncat' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(188): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(191): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lobject.c(192): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+  lopcodes.c
+  lparser.c
+  lstate.c
+  lstring.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  lstrlib.c
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lstrlib.c(675): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 'strncpy' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lstrlib.c(703): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lstrlib.c(707): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lstrlib.c(712): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lib\lstrlib.c(730): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  ltable.c
+  ltablib.c
+  ltests.c
+  ltm.c
+  lundump.c
+  lvm.c
+c:\users\haro7\desktop\c++ code a\lua\lua-5.0.2\src\lvm.c(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  lzio.c
+  코드를 생성하고 있습니다...
+  cLua.cpp
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(41): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: '_splitpath' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(98): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\lua\clua.cpp(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  lua.vcxproj -> C:\Users\haro7\Desktop\C++ Code a\lua\.\Debug\lua.lib

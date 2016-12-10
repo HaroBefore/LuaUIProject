@@ -1,0 +1,7 @@
+﻿  Base.cpp
+c:\users\haro7\desktop\luauiproject\luauiproject\base.cpp(228): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\haro7\desktop\luauiproject\luauiproject\base.cpp(244): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\haro7\desktop\luauiproject\luauiproject\base.cpp(259): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\haro7\desktop\luauiproject\luauiproject\base.cpp(276): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LuaUIProject.vcxproj -> C:\Users\haro7\Desktop\LuaUIProject\Debug\LuaUIProject.exe
+  LuaUIProject.vcxproj -> C:\Users\haro7\Desktop\LuaUIProject\Debug\LuaUIProject.pdb (Partial PDB)

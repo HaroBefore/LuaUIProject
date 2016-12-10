@@ -1,0 +1,19 @@
+﻿  dsutil.cpp
+  DXBase.cpp
+  DXFont.cpp
+c:\users\haro7\desktop\c++ code a\dx9\dxfont.cpp(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  DXSprite.cpp
+c:\users\haro7\desktop\c++ code a\dx9\dxsprite.cpp(40): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\dx9\dxsprite.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\haro7\desktop\c++ code a\dx9\dxsprite.cpp(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  OggPlayer.cpp
+c:\users\haro7\desktop\c++ code a\dx9\oggplayer.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  WinConsole.cpp
+  코드를 생성하고 있습니다...
+c:\users\haro7\desktop\c++ code a\dx9\dsutil.cpp(687): warning C4700: 초기화되지 않은 'i' 지역 변수를 사용했습니다.
+  DX9.vcxproj -> C:\Users\haro7\Desktop\C++ Code a\DX9\.\Debug\DX9.lib
